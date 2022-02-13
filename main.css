@@ -1,0 +1,41 @@
+
+
+body {
+    margin: 0;
+    background: rgb(155, 188, 15);
+    size: 25px;
+    font-family: VT323;
+}
+
+header {
+    background:rgb(139, 172, 15);
+    color: rgb(255, 255, 255);
+    padding: 10px 0px 0px 15px;
+}
+
+header h1 {
+    display: inline;
+    margin: 0;
+}
+
+nav ul {
+    display: inline;
+    margin: 0;
+}
+
+nav ul li {
+    background: rgb(48, 98, 48);
+    color: white;
+    display: inline-block;
+    list-style-type: none;
+    padding: 5px 20px;
+}
+
+nav ul li a {
+    color: white;
+}
+
+.icon {
+    max-width: 10px;
+    max-height: 10px;
+}
