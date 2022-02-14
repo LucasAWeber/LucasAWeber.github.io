@@ -36,7 +36,7 @@ header nav h1 ul {
 
 header nav h1 ul li {
     position: relative;
-    display: inline;
+    float: left;
     list-style: none;
     margin: 0px;
     padding: 0px;
@@ -48,12 +48,12 @@ header nav h1 ul li ul {
 }
 
 header nav h1 ul li:hover ul {
-    display: inline-block;
+    display: block;
 }
 
 header nav h1 ul li ul li {
-    font-size: 25;
-    margin: 0;
+    font-size: 50;
+    margin: 0 0 0 116px;
     padding: 0;
 }
 
@@ -86,5 +86,5 @@ nav ul li a {
 }
 
 .container li ul li a {
-    font-size: 30px;
+    font-size: 50px;
 }
