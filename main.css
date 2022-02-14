@@ -77,7 +77,6 @@ nav ul li a {
 body ul {
     font-size: 30px;
     list-style-type: none;
-    padding: 15px 0px 0px 15px;
     float: left;
     color: rgb(0, 255, 0);
 }
@@ -109,5 +108,15 @@ body ul li a {
 }
 
 .commandlineoutput {
-    padding: 0 25px 0 25px;
+    padding: 0 39px 0 39px;
+}
+
+.asciiimage {
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 6px;
+}
+
+.pageelements {
+    padding: 0px 0px 0px 15px;
 }
