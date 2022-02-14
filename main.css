@@ -18,7 +18,8 @@ header {
 }
 
 header nav h1 {
-    padding: 15px 0px 0px 0px;
+    size: 100px;
+    padding: 15px 0px 0px 15px;
     font-size: 50px;
     margin: 0;
     color: rgb(0, 255, 0);
@@ -73,6 +74,18 @@ nav ul li a {
     color: rgb(0, 255, 0);
 }
 
+body ul {
+    font-size: 30px;
+    list-style-type: none;
+    padding: 15px 0px 0px 15px;
+    float: left;
+    color: rgb(0, 255, 0);
+}
+
+body ul li a {
+    color: rgb(0, 255, 0);
+}
+
 .nowrap {
     white-space: nowrap;
 }
@@ -87,4 +100,10 @@ nav ul li a {
 
 .container li ul li a {
     font-size: 50px;
+}
+
+.container span span {
+    font-size: 33px;
+    padding: 0;
+    margin: 0;
 }
