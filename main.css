@@ -4,17 +4,17 @@
 }
 
 body {
-    color: rgb(0, 255, 0);
+    color: rgb(3, 160, 98);
     margin: 0;
-    background: black;
+    background: rgb(16, 16, 16);
     size: 20px;
     font-size: 25px;
     font-family: 'Lucida Console', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 header {
-    background:black;
-    color: rgb(0, 255, 0);
+    background: rgb(16, 16, 16);
+    color: rgb(3, 160, 98);
 }
 
 header nav h1 {
@@ -22,11 +22,11 @@ header nav h1 {
     padding: 15px 0px 0px 15px;
     font-size: 50px;
     margin: 0;
-    color: rgb(0, 255, 0);
+    color: rgb(3, 160, 98);
 }
 
 header nav h1 a {
-    color: rgb(0, 255, 0);
+    color: rgb(3, 160, 98);
 }
 
 header nav h1 ul {
@@ -65,24 +65,24 @@ nav ul {
 
 nav ul li {
     font-size: 30px;
-    color: rgb(0, 255, 0);
+    color: rgb(3, 160, 98);
     list-style-type: none;
     padding: 0px 10px 10px 10px;
 }
 
 nav ul li a {
-    color: rgb(0, 255, 0);
+    color: rgb(3, 160, 98);
 }
 
 body ul {
     font-size: 30px;
     list-style-type: none;
     float: left;
-    color: rgb(0, 255, 0);
+    color: rgb(3, 160, 98);
 }
 
 body ul li a {
-    color: rgb(0, 255, 0);
+    color: rgb(3, 160, 98);
 }
 
 .nowrap {
